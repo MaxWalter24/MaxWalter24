@@ -1,0 +1,2 @@
+I am using vim to type.
+text from a file from the second line.
