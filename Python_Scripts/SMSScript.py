@@ -19,6 +19,6 @@ def email_alert(subject, body, to):
     server.quit()
 
 if __name__ == '__main__':
-    email_alert("Hey","Hello world", "8155756424@vtext.com")
+    email_alert("Hey","Hello world", "8155756424@txt.att.net")
 
     print("finished")    
